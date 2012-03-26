@@ -1,0 +1,112 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.2.26)  27 MAR 2012 02:55
+entering extended mode
+ %&-line parsing enabled.
+**project.tex
+(./project.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/report.cls
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+No file project.aux.
+\openout1 = `project.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 9.
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+No file project.toc.
+\tf@toc=\write3
+\openout3 = `project.toc'.
+
+[1
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 12--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--19
+
+ []
+
+[1]
+Chapter 1.
+[1
+
+]
+Chapter 2.
+[2
+
+]
+Chapter 3.
+[3
+
+]
+Chapter 4.
+[4
+
+]
+Appendix A.
+[5
+
+]
+Appendix B.
+[6
+
+]
+
+LaTeX Warning: Empty `thebibliography' environment on input line 36.
+
+[7
+
+] (./project.aux) ) 
+Here is how much of TeX's memory you used:
+ 238 strings out of 495061
+ 2557 string characters out of 1182621
+ 47557 words of memory out of 3000000
+ 3498 multiletter control sequences out of 15000+50000
+ 6976 words of font info for 25 fonts, out of 3000000 for 9000
+ 28 hyphenation exceptions out of 8191
+ 22i,6n,19p,157b,179s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmb
+x12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
+r/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on project.pdf (10 pages, 50660 bytes).
+PDF statistics:
+ 47 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
