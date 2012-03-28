@@ -89,13 +89,30 @@ that you need to prepare extensively for interviews of such companies. \\But you
 play a vital role here. e.g. you may know the answer to a problem but if you have trouble explaining it to the
 recruiter, that counts as a negative for you. 
 \subsubsection{HR Interview}
-HR interview are designed specifically for testing the soft skills of the candidates. They may also 
+HR interview are designed specifically for testing the soft skills of the candidates. They may also feature questions
+which ask for the applicant's managerial skills and behaviourial skills. The interviewer may pose a business problem 
+and ask a solution for it. This specifically comes under case study questions. These kind of questions are meant to
+analyse the creativity, analytical thinking and general knowledge of the candidate.\\
+These interviews are conducted by the Human Resource department of the company, hence the name. They are non-technical 
+in nature and some of the typical questions asked are:
+\begin{itemise}
+ \item Tell me about yourself.
+ \item Where do you see yourself in 5/10 years from now?
+ \item What are your strengths and weaknesses? \ldots
+\end{itemise}
+
 \chapter{Telephonic Interviews}
-\section{}
-\subsection{}
+\section{Pre-Interview Phase}
+\section{Interview Phase}
+\subsection{Verbal Skills}
+\subsection{Non-Verbal Skills}
+\section{Post-Interview Phase}
 \chapter{Personal Interviews}
-\section{}
-\subsection{}
+\section{Pre-Interview Phase}
+\section{Interview Phase}
+\subsection{Verbal Skills}
+\subsection{Non-Verbal Skills}
+\section{Post-Interview Phase}
 \appendix
 \chapter{Technical Knowledge vs. Communication Skills}
 \chapter{Interviewer Biases}
