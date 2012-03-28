@@ -1,4 +1,4 @@
-\documentclass[a4paper,10pt]{report}
+\documentclass[a4paper,12pt]{report}
 
 % Title Page
 \title{Effective Communication at Job Interviews}
@@ -46,28 +46,40 @@ is still remains the major contributor to the selection of a particular individu
 \section{Telephonic}     % section 2.1
 \subsection{Introduction}  % subsection 2.1.1
 Telephonic interviews, as is clear by the name, take place over a communication medium such as telephone.
-They are incresingly becoming popular in today's times as the number of applicants is growing. Usually a
-recruiter may want to reduce the number of applicants by interviewing all of them over telephone and eliminating
-some of them beforehand. They are cheaper to conduct than a traditional personal interview and far more convinient
-for both parties than their counterpart. They are also very useful when the interviewer is unable to be physically
-present to conduct the interview, eg. him being in other state or country.\\
+They are incresingly becoming popular in today's times as the number of applicants is growing.
+\subsubsection{Advantages}
+With a very large number of applicants, usually a recruiter may want to reduce the number of applicants by interviewing all of them over telephone and eliminating
+some of them beforehand. Telephonic interviews are cheaper to conduct than a traditional personal interview and far more convinient
+for both parties than their counterparts and are preferred by smaller companies and start-ups. They are also very useful when the interviewer is unable to be physically
+present to conduct the interview, eg. him being in other state or country.
+\subsubsection{Disadvantages}
 But a telephonic interview has some obvious disadvantages also. If the interview is technical there is no
-means to put a check on cheating by the candidate unless a video conferencing occurs. Communication problems
+means to put a check on cheating by the candidate unless a video conferencing takes place. Communication problems
 may hamper the conduction of a telephonic interview. In a telephonic interview, the interviewer is unable to
-judge all the qualities and shortcomings of the candiate as the non-verbal part is mostly absent.\\
+judge all the qualities and shortcomings of the candiate as the non-verbal part is mostly absent.
+\subsubsection{}
 Despite of these shortcomings, the advantages of telephonic interviews generally advocate the need to focus
 on them and prepare for them.
 \section{Personal}         % section 2.2
 \subsection{Introduction}  % subsection 2.2.1
 This is the most common and effective type of interview in terms of selecting the best individual for the job.
-The candidate faces a single or a panel of interviewers face to face. The interviewers analyse every non-verbal
+The candidate faces a single or a panel of interviewers face to face. 
+\subsubsection{Advantages}
+The interviewers analyse every non-verbal
 and verbal gesture of the candidate to decide amongst the best. This allows gathering far more information
-about each other for both parties and helps them to perform better.\\
+about each other for both parties and helps them to perform better. The recruiter can elicit more in-depth response
+or help the candidate by filling in information. The question of cheating is also gone as the recruiter observes every move
+of the candidate.
+\subsubsection{Disadvantages}
+Yet it has certain disadvantages too. Most people are afraid of face to face interviews and may not perform well
+during the interview, even if they are best suited for the job. It also costs the oraganisation a lot of time and
+money to conduct a personal interview which is not desirable for the newer companies and small start-ups.
+\subsubsection{}
 Personal interview is a highly formal meeting which expects adequate amount of  maturity from both sides.
 Proper dress code should be observed and the interview should take place in a quiet and isolated environment.
 Following common etiquettes shows the sincerety level of the candidate. After all it is a question of how much 
-is a candidate able to demonstrate to the recruiter his suitability for the job.\\
-\subsection{Classfication}
+is a candidate able to demonstrate to the recruiter his suitability for the job.
+\subsection{Classification}
 A personal interview may be futher divided into these following categories based on kinds of questions asked:
 \subsubsection{Technical Interview}
 Sitting in the interview for a technical position obviously requires certain level of technical knowledge. The level
@@ -75,9 +87,9 @@ varies from company to company. Some interviewers may require you to solve hard 
 for solving a particular problem, while some may ask you to explain your technical projects to them. The bottomline is
 that you need to prepare extensively for interviews of such companies. \\But your communication skills still
 play a vital role here. e.g. you may know the answer to a problem but if you have trouble explaining it to the
-recruiter, that counts as a negative for you.
+recruiter, that counts as a negative for you. 
 \subsubsection{HR Interview}
-
+HR interview are designed specifically for testing the soft skills of the candidates. They may also 
 \chapter{Telephonic Interviews}
 \section{}
 \subsection{}
