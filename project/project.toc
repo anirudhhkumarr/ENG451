@@ -5,9 +5,22 @@
 \contentsline {chapter}{\numberline {2}Classfication of a Job interview}{4}
 \contentsline {section}{\numberline {2.1}Telephonic}{4}
 \contentsline {subsection}{\numberline {2.1.1}Introduction}{4}
-\contentsline {section}{\numberline {2.2}Personal}{4}
-\contentsline {subsection}{\numberline {2.2.1}Introduction}{4}
-\contentsline {chapter}{\numberline {3}Telephonic Interviews}{5}
-\contentsline {chapter}{\numberline {4}Personal Interviews}{6}
-\contentsline {chapter}{\numberline {A}Technical Knowledge vs. Communication Skills}{7}
-\contentsline {chapter}{\numberline {B}Interviewer Biases}{8}
+\contentsline {subsubsection}{Advantages}{4}
+\contentsline {subsubsection}{Disadvantages}{4}
+\contentsline {subsubsection}{}{5}
+\contentsline {section}{\numberline {2.2}Personal}{5}
+\contentsline {subsection}{\numberline {2.2.1}Introduction}{5}
+\contentsline {subsubsection}{Advantages}{5}
+\contentsline {subsubsection}{Disadvantages}{5}
+\contentsline {subsubsection}{}{5}
+\contentsline {subsection}{\numberline {2.2.2}Classification}{6}
+\contentsline {subsubsection}{Technical Interview}{6}
+\contentsline {subsubsection}{HR Interview}{6}
+\contentsline {chapter}{\numberline {3}Telephonic Interviews}{7}
+\contentsline {section}{\numberline {3.1}}{7}
+\contentsline {subsection}{\numberline {3.1.1}}{7}
+\contentsline {chapter}{\numberline {4}Personal Interviews}{8}
+\contentsline {section}{\numberline {4.1}}{8}
+\contentsline {subsection}{\numberline {4.1.1}}{8}
+\contentsline {chapter}{\numberline {A}Technical Knowledge vs. Communication Skills}{9}
+\contentsline {chapter}{\numberline {B}Interviewer Biases}{10}

@@ -1,26 +1,23 @@
-\documentclass[a4paper,12pt]{report}
+\documentclass[a4paper,10pt]{report}
 
 % Title Page
 \title{Effective Communication at Job Interviews}
 \author{Anirudh Kumar}
 
-
 \begin{document}
+
 \maketitle
 
 \tableofcontents
 
-
-\begin{abstract}
-
-\end{abstract}
-         
 \chapter{What is this report about?}             % chapter 1
 \section{Introduction}             % section 1.1
 Job interview is a meeting between an eligible candidate who is looking for a position in an organisation and a recruiter who has been 
 given the resposibility to select the most appropriate person for the particular job. It is an opportunity for both the aforementioned 
 parties to know each other and fulfill the purpose. \\This report focusses on the candidate side of the Job interview and how should a person
-present himself/herself to the interviewer in order to increase his/her chances of getting the job offer. It deals with two
+present himself/herself to the interviewer in order to increase his/her chances of getting the job offer.
+As the author of a best selling book on job interviews, `Matthew DeLuca` \cite{matthewluca} says--
+{\bf It is not necessarily the best candidate who gets the job offer--it is most likely the best interviewee}. It deals with two
 main kind of interviews Telephonic and Personal, and discusses the verbal and non verbal aspects of both.\\
 I have also included two sections in the appendix which are not directly related to ones success at Job interviews
 but are more of informative nature for candidates sitting in an interview.
@@ -48,16 +45,53 @@ is still remains the major contributor to the selection of a particular individu
 \chapter{Classfication of a Job interview}           % chapter 2
 \section{Telephonic}     % section 2.1
 \subsection{Introduction}  % subsection 2.1.1
+Telephonic interviews, as is clear by the name, take place over a communication medium such as telephone.
+They are incresingly becoming popular in today's times as the number of applicants is growing. Usually a
+recruiter may want to reduce the number of applicants by interviewing all of them over telephone and eliminating
+some of them beforehand. They are cheaper to conduct than a traditional personal interview and far more convinient
+for both parties than their counterpart. They are also very useful when the interviewer is unable to be physically
+present to conduct the interview, eg. him being in other state or country.\\
+But a telephonic interview has some obvious disadvantages also. If the interview is technical there is no
+means to put a check on cheating by the candidate unless a video conferencing occurs. Communication problems
+may hamper the conduction of a telephonic interview. In a telephonic interview, the interviewer is unable to
+judge all the qualities and shortcomings of the candiate as the non-verbal part is mostly absent.\\
+Despite of these shortcomings, the advantages of telephonic interviews generally advocate the need to focus
+on them and prepare for them.
 \section{Personal}         % section 2.2
 \subsection{Introduction}  % subsection 2.2.1
+This is the most common and effective type of interview in terms of selecting the best individual for the job.
+The candidate faces a single or a panel of interviewers face to face. The interviewers analyse every non-verbal
+and verbal gesture of the candidate to decide amongst the best. This allows gathering far more information
+about each other for both parties and helps them to perform better.\\
+Personal interview is a highly formal meeting which expects adequate amount of  maturity from both sides.
+Proper dress code should be observed and the interview should take place in a quiet and isolated environment.
+Following common etiquettes shows the sincerety level of the candidate. After all it is a question of how much 
+is a candidate able to demonstrate to the recruiter his suitability for the job.\\
+\subsection{Classfication}
+A personal interview may be futher divided into these following categories based on kinds of questions asked:
+\subsubsection{Technical Interview}
+Sitting in the interview for a technical position obviously requires certain level of technical knowledge. The level
+varies from company to company. Some interviewers may require you to solve hard and mind teasing puzzles, some may ask 
+for solving a particular problem, while some may ask you to explain your technical projects to them. The bottomline is
+that you need to prepare extensively for interviews of such companies. \\But your communication skills still
+play a vital role here. e.g. you may know the answer to a problem but if you have trouble explaining it to the
+recruiter, that counts as a negative for you.
+\subsubsection{HR Interview}
 
 \chapter{Telephonic Interviews}
+\section{}
+\subsection{}
 \chapter{Personal Interviews}
+\section{}
+\subsection{}
 \appendix
 \chapter{Technical Knowledge vs. Communication Skills}
 \chapter{Interviewer Biases}
 \begin{thebibliography}{9}
   % type bibliography here
+  \bibitem{matthewluca}
+  Matthew DeLuca,
+  \emph{Best Answers to the 201 Most Frequently Asked Interview Questions}
 \end{thebibliography}
 
 \end{document}
