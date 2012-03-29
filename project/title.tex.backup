@@ -1,13 +1,9 @@
-\documentclass[a4paper,10pt]{article}
-\usepackage{graphicx}
-
 \begin{titlepage}
 
 \begin{center}
 
-
 % Upper part of the page
-\includegraphics[width=0.15\textwidth]{./logo}\\[1cm]    
+\includegraphics[width=0.33\textwidth]{./logo}\\[1cm]    
 
 \textsc{\LARGE Indian Institute of Technolgy, Kanpur}\\[1.5cm]
 
@@ -17,20 +13,19 @@
 % Title
 \HRule \\[0.4cm]
 { \huge \bfseries Effective Communication at Job Interviews}\\[0.4cm]
-
 \HRule \\[1.5cm]
 
 % Author and supervisor
 \begin{minipage}{0.4\textwidth}
 \begin{flushleft} \large
 \emph{Author:}\\
-John \textsc{Anirudh Kumar}
+Anirudh \textsc{Kumar}
 \end{flushleft}
 \end{minipage}
 \begin{minipage}{0.4\textwidth}
 \begin{flushright} \large
 \emph{Supervisor:} \\
-Dr.~Mark \textsc{Dr. T. Ravichandran}
+Dr.~T \textsc{Ravichandran}
 \end{flushright}
 \end{minipage}
 

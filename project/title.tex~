@@ -3,30 +3,32 @@
 \begin{center}
 
 % Upper part of the page
-\includegraphics[width=0.5\textwidth]{./logo}\\[1cm]    
+\includegraphics[width=0.33\textwidth]{./logo}\\[1cm]    
 
 \textsc{\LARGE Indian Institute of Technolgy, Kanpur}\\[1.5cm]
 
 \textsc{\Large ENG 451 Global Communication}\\[0.5cm]
 
-
 % Title
 \HRule \\[0.4cm]
 { \huge \bfseries Effective Communication at Job Interviews}\\[0.4cm]
-
 \HRule \\[1.5cm]
 
 % Author and supervisor
 \begin{minipage}{0.4\textwidth}
 \begin{flushleft} \large
 \emph{Author:}\\
-Anirudh \textsc{Kumar}
+Anirudh \textsc{Kumar}\\
+Serial number 24\\
+Y9088
 \end{flushleft}
 \end{minipage}
 \begin{minipage}{0.4\textwidth}
 \begin{flushright} \large
 \emph{Supervisor:} \\
-Dr.~T \textsc{Ravichandran}
+Dr.~T \textsc{Ravichandran}\\
+Associate Professor,\\
+IIT Kanpur
 \end{flushright}
 \end{minipage}
 
