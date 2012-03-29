@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.2.26)  29 MAR 2012 15:09
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.2.26)  29 MAR 2012 22:32
 entering extended mode
  %&-line parsing enabled.
 **project.tex
@@ -70,36 +70,73 @@ Package: multicol 2008/12/05 v1.6h multicolumn formatting (FMi)
 \multicolundershoot=\dimen110
 \mult@nat@firstbox=\box50
 \colbreak@box=\box51
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+\Gread@gobject=\count96
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
 ) (./project.aux)
 \openout1 = `project.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 10.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
 
-[1
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count97
+\scratchdimen=\dimen113
+\scratchbox=\box52
+\nofMPsegments=\count98
+\nofMParguments=\count99
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count100
+\MPscratchDim=\dimen114
+\MPnumerator=\count101
+\everyMPtoPDFconversion=\toks16
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 37.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 37.
+ [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [1] [1] (./project.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 5.
+(Font)              <12> on input line 8.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 5.
+(Font)              <8> on input line 8.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 5.
-
+(Font)              <6> on input line 8.
 [1
 
 ])
@@ -115,52 +152,67 @@ Chapter 2.
 [5
 
 ] [6]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 124.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 152.
 
  (/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 124.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 152.
  [7]
 Chapter 3.
 [8
 
-] [9]
+] [9] [10] [11]
 Chapter 4.
-[10
+[12
 
 ]
 Chapter 5.
-[11
-
-] [12]
-Appendix A.
 [13
 
-] [14]
-Appendix B.
-[15
+] <1.png, id=56, 754.82pt x 198.7425pt>
+File: 1.png Graphic file (type png)
+ <use 1.png>
+<2.png, id=57, 754.82pt x 458.71375pt>
+File: 2.png Graphic file (type png)
+ <use 2.png>
+<3.png, id=58, 751.80875pt x 453.695pt>
+File: 3.png Graphic file (type png)
+ <use 3.png>
+<4.png, id=59, 753.81625pt x 230.8625pt>
+File: 4.png Graphic file (type png)
+ <use 4.png> [14 <./1.png (PNG copy)> <./2.png (PNG copy)>] [15 <./3.png (PNG c
+opy)> <./4.png (PNG copy)>]
+Appendix A.
+[16
 
-] [16
+] [17]
+Appendix B.
+[18
+
+] [19]
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no © in font cmr12!
+ [20
 
 ] (./project.aux) ) 
 Here is how much of TeX's memory you used:
- 371 strings out of 495061
- 4447 string characters out of 1182621
- 55832 words of memory out of 3000000
- 3612 multiletter control sequences out of 15000+50000
+ 1072 strings out of 495061
+ 13478 string characters out of 1182621
+ 67695 words of memory out of 3000000
+ 4283 multiletter control sequences out of 15000+50000
  9761 words of font info for 34 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 23i,6n,19p,182b,243s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 25i,6n,19p,233b,243s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmb
 x12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
 r/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texm
 f-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/f
 onts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on project.pdf (19 pages, 95890 bytes).
+Output written on project.pdf (23 pages, 184890 bytes).
 PDF statistics:
- 84 PDF objects out of 1000 (max. 8388607)
+ 100 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
