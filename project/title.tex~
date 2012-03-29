@@ -19,6 +19,7 @@
 \begin{flushleft} \large
 \emph{Author:}\\
 Anirudh \textsc{Kumar}\\
+\normalsize
 Serial number 24\\
 Y9088
 \end{flushleft}
@@ -27,6 +28,7 @@ Y9088
 \begin{flushright} \large
 \emph{Supervisor:} \\
 Dr.~T \textsc{Ravichandran}\\
+\normalsize
 Associate Professor,\\
 IIT Kanpur
 \end{flushright}
