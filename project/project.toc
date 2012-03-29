@@ -1,32 +1,51 @@
-\contentsline {chapter}{\numberline {1}What is this report about?}{2}
-\contentsline {section}{\numberline {1.1}Introduction}{2}
+\contentsline {paragraph}{}{1}
+\contentsline {paragraph}{}{1}
+\contentsline {paragraph}{}{1}
+\contentsline {chapter}{\numberline {1}Job Interviews}{3}
+\contentsline {section}{\numberline {1.1}Introduction}{3}
 \contentsline {section}{\numberline {1.2}More on Job Interviews}{3}
 \contentsline {subsection}{\numberline {1.2.1}Process}{3}
-\contentsline {chapter}{\numberline {2}Classfication of a Job interview}{4}
-\contentsline {section}{\numberline {2.1}Telephonic}{4}
-\contentsline {subsection}{\numberline {2.1.1}Introduction}{4}
-\contentsline {subsubsection}{Advantages}{4}
-\contentsline {subsubsection}{Disadvantages}{4}
-\contentsline {subsubsection}{}{5}
-\contentsline {section}{\numberline {2.2}Personal}{5}
-\contentsline {subsection}{\numberline {2.2.1}Introduction}{5}
+\contentsline {chapter}{\numberline {2}Classfication of a Job interview}{5}
+\contentsline {section}{\numberline {2.1}Telephonic}{5}
+\contentsline {subsection}{\numberline {2.1.1}Introduction}{5}
 \contentsline {subsubsection}{Advantages}{5}
 \contentsline {subsubsection}{Disadvantages}{5}
-\contentsline {subsubsection}{}{5}
-\contentsline {subsection}{\numberline {2.2.2}Classification}{6}
-\contentsline {subsubsection}{Technical Interview}{6}
-\contentsline {subsubsection}{HR Interview}{6}
-\contentsline {chapter}{\numberline {3}Telephonic Interviews}{7}
-\contentsline {section}{\numberline {3.1}Pre-Interview Phase}{7}
-\contentsline {section}{\numberline {3.2}Interview Phase}{7}
-\contentsline {subsection}{\numberline {3.2.1}Verbal Skills}{7}
-\contentsline {subsection}{\numberline {3.2.2}Non-Verbal Skills}{7}
-\contentsline {section}{\numberline {3.3}Post-Interview Phase}{7}
-\contentsline {chapter}{\numberline {4}Personal Interviews}{8}
-\contentsline {section}{\numberline {4.1}Pre-Interview Phase}{8}
-\contentsline {section}{\numberline {4.2}Interview Phase}{8}
-\contentsline {subsection}{\numberline {4.2.1}Verbal Skills}{8}
-\contentsline {subsection}{\numberline {4.2.2}Non-Verbal Skills}{8}
-\contentsline {section}{\numberline {4.3}Post-Interview Phase}{8}
-\contentsline {chapter}{\numberline {A}Technical Knowledge vs. Communication Skills}{9}
-\contentsline {chapter}{\numberline {B}Interviewer Biases}{10}
+\contentsline {subsubsection}{}{6}
+\contentsline {section}{\numberline {2.2}Personal}{6}
+\contentsline {subsection}{\numberline {2.2.1}Introduction}{6}
+\contentsline {subsubsection}{Advantages}{6}
+\contentsline {subsubsection}{Disadvantages}{6}
+\contentsline {subsubsection}{}{6}
+\contentsline {subsection}{\numberline {2.2.2}Classification}{7}
+\contentsline {subsubsection}{Technical Interview}{7}
+\contentsline {subsubsection}{HR Interview}{7}
+\contentsline {chapter}{\numberline {3}Telephonic Interviews}{8}
+\contentsline {section}{\numberline {3.1}Pre-Interview Phase}{8}
+\contentsline {subsubsection}{Collect information about the company}{8}
+\contentsline {subsubsection}{Prepare Common HR questions}{8}
+\contentsline {subsubsection}{Ensure that your phone is available}{8}
+\contentsline {subsubsection}{Ensure a quiet environment}{9}
+\contentsline {section}{\numberline {3.2}Interview Phase}{9}
+\contentsline {subsubsection}{Do not take help}{9}
+\contentsline {subsubsection}{Speak with confidence}{9}
+\contentsline {subsubsection}{Do not lie about your achievements}{9}
+\contentsline {subsection}{\numberline {3.2.1}Verbal Skills}{9}
+\contentsline {subsection}{\numberline {3.2.2}Non-Verbal Skills}{9}
+\contentsline {section}{\numberline {3.3}Post-Interview Phase}{9}
+\contentsline {subsubsection}{Ask questions}{9}
+\contentsline {subsubsection}{Try to make light converstaion}{9}
+\contentsline {chapter}{\numberline {4}Personal Interviews}{10}
+\contentsline {section}{\numberline {4.1}Pre-Interview Phase}{10}
+\contentsline {section}{\numberline {4.2}Interview Phase}{10}
+\contentsline {subsection}{\numberline {4.2.1}Verbal Skills}{10}
+\contentsline {subsection}{\numberline {4.2.2}Non-Verbal Skills}{10}
+\contentsline {section}{\numberline {4.3}Post-Interview Phase}{10}
+\contentsline {chapter}{\numberline {5}Survey}{11}
+\contentsline {section}{\numberline {5.1}Questions}{11}
+\contentsline {section}{\numberline {5.2}Results}{12}
+\contentsline {section}{\numberline {5.3}Conclusion}{12}
+\contentsline {chapter}{\numberline {A}Technical Knowledge vs. Communication Skills}{13}
+\contentsline {subsubsection}{}{13}
+\contentsline {subsubsection}{}{13}
+\contentsline {subsubsection}{}{14}
+\contentsline {chapter}{\numberline {B}Interviewer Biases}{15}
