@@ -3,14 +3,42 @@
 \usepackage{graphicx}
 % Title Page
 \title{Effective Communication at Job Interviews}
-\author{Anirudh Kumar}
+\author{Anirudh Kumar\\ 
+	$3^{rd}$ Year Undergraduate,\\
+	IIT Kanpur}
+
+\makeatletter
+\newcommand\ackname{Acknowledgements}
+\if@titlepage
+  \newenvironment{acknowledgements}{%
+      \titlepage
+      \null\vfil
+      \@beginparpenalty\@lowpenalty
+      \begin{center}%
+        \bfseries \ackname
+        \@endparpenalty\@M
+      \end{center}}%
+     {\par\vfil\null\endtitlepage}
+\else
+  \newenvironment{acknowledgements}{%
+      \if@twocolumn
+        \section*{\abstractname}%
+      \else
+        \small
+        \begin{center}%
+          {\bfseries \ackname\vspace{-.5em}\vspace{\z@}}%
+        \end{center}%
+        \quotation
+      \fi}
+      {\if@twocolumn\else\endquotation\fi}
+\fi
+\makeatother
 
 \begin{document}
 
 \maketitle
 
 \begin{abstract}
-
 Job Interview is an inevitable criterion for selection of a good candidate for a job position. This paper aims at introducing various aspects
 of the most common types of Job Interviews and a few points to keep in mind while sitting for a job interview.
 \paragraph{}
@@ -18,12 +46,11 @@ It first throws light upon the importance and need to prepare for the interview 
 things to do before and interview. It then proceeds to discuss the various skills and manners required during the interview itself 
 and finally mentions a few tips for ensuring the success of interview in the post interview phase.
 \paragraph{}
-Two appendices are also included which deal with the topics `Technical Knowledge vs. Communication Skills`
-and `Interviewer Biases`.
+Two appendices are also included which deal with the topics `Technical Knowledge vs. Communication Skills'
+and `Interviewer Biases'.
 \end{abstract}
 
-\renewcommand{\abstractname}{Acknowledgements}
-\begin{abstract}
+\begin{acknowledgements}
 I take the privilege of thanking the instructor of the course ENG451, Dr. T. Ravichandran
 for introducing me as well as other classmates to the Effective Communication Skills
  in day to day life. His guidance and advice has been a lot of help in preparing this project report.
@@ -32,10 +59,13 @@ I would also like to thank my friends especially Hunaid, who were a part of the 
 2011-2012 and other seniors who provided me with their valuable suggestions for
 the survey portion of the report. Without them, the survey and analysis could never have
 been done.
-\end{abstract}
+\end{acknowledgements}
 
 \tableofcontents
-\addcontentsline{toc}{abstract}{}
+\addcontentsline{toc}{chapter}{Abstract}
+\addcontentsline{toc}{chapter}{Acknowledgements}
+\addcontentsline{toc}{chapter}{Contents}
+
 \chapter{Job Interviews}             % chapter 1
 \section{Introduction}             % section 1.1
 Job interview is a meeting between an eligible candidate who is looking for a position in an organization and a recruiter who has been 
@@ -336,13 +366,13 @@ albeit you can take advantage of these for yourself in certain situations.
   Matthew DeLuca,
   \emph{Best Answers to the 201 Most Frequently Asked Interview Questions}
   \bibitem{interpersonal}
-  Wade, Kinicki (1997),
+  Wade and Kinicki (1997),
   \emph{Subjective applicant qualifications and interpersonal attraction as mediators within a process model of interview selection decisions}
   \bibitem{race}
-  McFarland, Ryan, Sacco, and Kriska (2004),
+  McFarland, Ryan, Sacco and Kriska (2004),
   \emph{Examination of structured interview ratings across time: The effects of applicant race, rater race, and panel composition}
   \bibitem{bias}
-  Purkiss, Perrewé, Gillespie, Mayes, and Ferris (2006),
+  Purkiss, Perrewé, Gillespie, Mayes and Ferris (2006),
   \emph{Implicit sources of bias in employment interview judgments and decisions}
 \end{thebibliography}
 

@@ -1,0 +1,44 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage{graphicx}
+
+\begin{titlepage}
+
+\begin{center}
+
+
+% Upper part of the page
+\includegraphics[width=0.15\textwidth]{./logo}\\[1cm]    
+
+\textsc{\LARGE Indian Institute of Technolgy, Kanpur}\\[1.5cm]
+
+\textsc{\Large ENG 451 Global Communication}\\[0.5cm]
+
+
+% Title
+\HRule \\[0.4cm]
+{ \huge \bfseries Effective Communication at Job Interviews}\\[0.4cm]
+
+\HRule \\[1.5cm]
+
+% Author and supervisor
+\begin{minipage}{0.4\textwidth}
+\begin{flushleft} \large
+\emph{Author:}\\
+John \textsc{Anirudh Kumar}
+\end{flushleft}
+\end{minipage}
+\begin{minipage}{0.4\textwidth}
+\begin{flushright} \large
+\emph{Supervisor:} \\
+Dr.~Mark \textsc{Dr. T. Ravichandran}
+\end{flushright}
+\end{minipage}
+
+\vfill
+
+% Bottom of the page
+{\large \today}
+
+\end{center}
+
+\end{titlepage}

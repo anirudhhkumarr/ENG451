@@ -3,7 +3,9 @@
 \usepackage{graphicx}
 % Title Page
 \title{Effective Communication at Job Interviews}
-\author{Anirudh Kumar}
+\author{Anirudh Kumar\\ 
+	$3^{rd}$ Year Undergraduate,\\
+	IIT Kanpur}
 
 \makeatletter
 \newcommand\ackname{Acknowledgements}
@@ -32,9 +34,11 @@
 \fi
 \makeatother
 
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+
 \begin{document}
 
-\maketitle
+\input{./title.tex}
 
 \begin{abstract}
 Job Interview is an inevitable criterion for selection of a good candidate for a job position. This paper aims at introducing various aspects
@@ -364,13 +368,13 @@ albeit you can take advantage of these for yourself in certain situations.
   Matthew DeLuca,
   \emph{Best Answers to the 201 Most Frequently Asked Interview Questions}
   \bibitem{interpersonal}
-  Wade, Kinicki (1997),
+  Wade and Kinicki (1997),
   \emph{Subjective applicant qualifications and interpersonal attraction as mediators within a process model of interview selection decisions}
   \bibitem{race}
-  McFarland, Ryan, Sacco, and Kriska (2004),
+  McFarland, Ryan, Sacco and Kriska (2004),
   \emph{Examination of structured interview ratings across time: The effects of applicant race, rater race, and panel composition}
   \bibitem{bias}
-  Purkiss, Perrewé, Gillespie, Mayes, and Ferris (2006),
+  Purkiss, Perrewé, Gillespie, Mayes and Ferris (2006),
   \emph{Implicit sources of bias in employment interview judgments and decisions}
 \end{thebibliography}
 

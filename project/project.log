@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.2.26)  29 MAR 2012 22:32
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.2.26)  29 MAR 2012 23:25
 entering extended mode
  %&-line parsing enabled.
 **project.tex
@@ -123,21 +123,20 @@ LaTeX Font Info:    ... okay on input line 35.
 \MPscratchDim=\dimen114
 \MPnumerator=\count101
 \everyMPtoPDFconversion=\toks16
-)
+) (./title.tex <./logo.jpg, id=1, 230.8625pt x 219.82124pt>
+File: ./logo.jpg Graphic file (type jpg)
+ <use ./logo.jpg>
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 37.
+(Font)              <12> on input line 25.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 37.
- [1
+(Font)              <8> on input line 25.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 25.
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [1] [1] (./project.toc
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 8.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 8.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 8.
 [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./logo.jpg>]) [1]
+[1] (./project.toc [1
 
 ])
 \tf@toc=\write3
@@ -171,16 +170,16 @@ Chapter 4.
 Chapter 5.
 [13
 
-] <1.png, id=56, 754.82pt x 198.7425pt>
+] <1.png, id=58, 754.82pt x 198.7425pt>
 File: 1.png Graphic file (type png)
  <use 1.png>
-<2.png, id=57, 754.82pt x 458.71375pt>
+<2.png, id=59, 754.82pt x 458.71375pt>
 File: 2.png Graphic file (type png)
  <use 2.png>
-<3.png, id=58, 751.80875pt x 453.695pt>
+<3.png, id=60, 751.80875pt x 453.695pt>
 File: 3.png Graphic file (type png)
  <use 3.png>
-<4.png, id=59, 753.81625pt x 230.8625pt>
+<4.png, id=61, 753.81625pt x 230.8625pt>
 File: 4.png Graphic file (type png)
  <use 4.png> [14 <./1.png (PNG copy)> <./2.png (PNG copy)>] [15 <./3.png (PNG c
 opy)> <./4.png (PNG copy)>]
@@ -198,21 +197,21 @@ Missing character: There is no © in font cmr12!
 
 ] (./project.aux) ) 
 Here is how much of TeX's memory you used:
- 1072 strings out of 495061
- 13478 string characters out of 1182621
- 67695 words of memory out of 3000000
- 4283 multiletter control sequences out of 15000+50000
- 9761 words of font info for 34 fonts, out of 3000000 for 9000
+ 1082 strings out of 495061
+ 13586 string characters out of 1182621
+ 67681 words of memory out of 3000000
+ 4288 multiletter control sequences out of 15000+50000
+ 10398 words of font info for 36 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 25i,6n,19p,233b,243s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 25i,5n,19p,184b,256s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmb
-x12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
-r/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texm
-f-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/f
-onts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on project.pdf (23 pages, 184890 bytes).
+x12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></
+usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/te
+xmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive
+/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on project.pdf (23 pages, 280677 bytes).
 PDF statistics:
- 100 PDF objects out of 1000 (max. 8388607)
+ 101 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
