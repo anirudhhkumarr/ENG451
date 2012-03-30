@@ -37,9 +37,14 @@
 \begin{document}
 \input{./title.tex}
 
+\addcontentsline{toc}{chapter}{Copyright Notice}
+\emph{\copyright 2012 Anirudh Kumar}\\
+All rights reserved. No part of this publication may be reproduced, stored in a retrieval system or transmitted,
+in any form or by any means, electronic, mechanical, photocopying, recording or otherwise, without prior
+permission of the publisher.
+
 \addcontentsline{toc}{chapter}{Abstract}
 \begin{abstract}
-\setcounter{page}{1}
 Job Interview is an inevitable criterion for selection of a good candidate for a job position. This paper aims at introducing various aspects
 of the most common types of Job Interviews and a few points to keep in mind while sitting for a job interview.
 \paragraph{}
@@ -64,6 +69,7 @@ the survey portion of the project report. Without them, the survey and analysis 
 \end{acknowledgements}
 
 \addcontentsline{toc}{chapter}{Contents}
+\setcounter{page}{4}
 \tableofcontents
 
 \chapter{Job Interviews}             % chapter 1
