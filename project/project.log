@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.2.26)  30 MAR 2012 03:46
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.2.26)  30 MAR 2012 14:59
 entering extended mode
  %&-line parsing enabled.
 **project.tex
@@ -180,45 +180,51 @@ ter ap-ply straight-
 
 [14
 
-] [15] [16]
+] [15]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+ [16] [17] [18]
 Chapter 5.
-[17
+[19
 
-] <1.png, id=71, 754.82pt x 198.7425pt>
+] <1.png, id=77, 754.82pt x 198.7425pt>
 File: 1.png Graphic file (type png)
  <use 1.png>
-<2.png, id=72, 754.82pt x 458.71375pt>
+<2.png, id=78, 754.82pt x 458.71375pt>
 File: 2.png Graphic file (type png)
  <use 2.png>
-<3.png, id=73, 751.80875pt x 453.695pt>
+<3.png, id=79, 751.80875pt x 453.695pt>
 File: 3.png Graphic file (type png)
  <use 3.png>
-<4.png, id=74, 753.81625pt x 230.8625pt>
+<4.png, id=80, 753.81625pt x 230.8625pt>
 File: 4.png Graphic file (type png)
- <use 4.png> [18 <./1.png (PNG copy)> <./2.png (PNG copy)>] [19 <./3.png (PNG c
-opy)> <./4.png (PNG copy)>] [20]
+ <use 4.png> [20 <./1.png (PNG copy)> <./2.png (PNG copy)>] [21 <./3.png (PNG c
+opy)> <./4.png (PNG copy)>] [22]
 Appendix A.
-[21
-
-] [22]
-Appendix B.
 [23
 
 ] [24]
+Appendix B.
+[25
+
+] [26]
 Missing character: There is no â in font cmti12!
 Missing character: There is no € in font cmti12!
 Missing character: There is no “ in font cmti12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 475--476
+Underfull \hbox (badness 10000) in paragraph at lines 515--516
 []\OT1/cmr/m/it/12 http://www.lifehack.org/articles/communication/seven-great-q
 uestions-
  []
 
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no © in font cmr12!
-(./project.ind [25
+(./project.ind [27
 
-] [26
+] [28
+
+] [29
 
 ]) (./project.aux) ) 
 Here is how much of TeX's memory you used:
@@ -234,9 +240,9 @@ bx12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><
 /usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/t
 exmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texliv
 e/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on project.pdf (29 pages, 290515 bytes).
+Output written on project.pdf (32 pages, 294388 bytes).
 PDF statistics:
- 120 PDF objects out of 1000 (max. 8388607)
+ 130 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
